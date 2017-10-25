@@ -1,2 +1,2 @@
 # Geolocation
-Simple example of geolacation
+Simple example of geolocation
